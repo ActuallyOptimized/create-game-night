@@ -6,3 +6,5 @@
 
 # Exclude packwiz bins
 packwiz-macos
+
+.DS_Store
