@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = "packwiz-macos"
+hash = "8db9dcb5b15c9cc5c650629084efa9bb1c20b1d894787fd1bca3edaacf0b575c"

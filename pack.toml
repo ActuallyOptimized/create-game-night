@@ -1,0 +1,13 @@
+name = "Create Game Night"
+author = "Svemat01"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8abd4da1931f51cccbfcdf45b1161055be8d61bb3bed77be0691404a39a71a65"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.169"
