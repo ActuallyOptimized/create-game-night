@@ -230,6 +230,11 @@ hash = "4671a699d5d182d4ac4ddaa4185bd953aeae56f1685491715ed3e2ccc86f1631"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "45cd3a9331e9c86a5b3cc01092df0ef22141eb6dfcfd64920c48a386adbbe18e"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "c3c06a4839ecfd4717686f7394396a4fc66b7a2e8eabbdd51f23ab2a1099cc1e"
 metafile = true
@@ -257,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "dad3fae621fe1f37422cd2bd527c237da93e79b72128a27211bbed1c2f7f7b73"
 metafile = true
 
 [[files]]
@@ -326,6 +336,16 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/silent-gear.pw.toml"
+hash = "39f11e051ec204c273478160564ea7518480f371c4278e5bbd1aa0e7395b8dc9"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "656acad02342c5c692559624d5a7a2f7d143d94d3b688cb15311695aa55a601a"
 metafile = true
 
 [[files]]
