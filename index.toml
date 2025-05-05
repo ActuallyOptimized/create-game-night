@@ -265,8 +265,12 @@ hash = "a859b2f6265d5160e052d00659e4bf2ec3e307856c707110caaf9f83439c9f2c"
 metafile = true
 
 [[files]]
+file = "mods/mcmouser-1.21-neoforge-1.0.1.jar"
+hash = "adae44d731df8316777280966015d77c79c1ee79261578f9d489ed7ac29abc31"
+
+[[files]]
 file = "mods/mcmouser.pw.toml"
-hash = "e010718dbfc38cb8171ad270024fc1f79dd7a158462de26adb0746796522b4f1"
+hash = "a72f3cbf5d8d72030297ed0bf47524a154596681a60f0157f73cac3f6082b18f"
 metafile = true
 
 [[files]]
