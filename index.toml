@@ -349,6 +349,16 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
@@ -436,6 +446,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "e103e134083c1f541cf3142483cc781b1985a3f21fd7bce3d6cd1788e683902d"
+metafile = true
+
+[[files]]
+file = "mods/tempad.pw.toml"
+hash = "84f3023c5594e3bdd77f9acf912c0a3f5533a873353fc99e6490763f2bf3e943"
 metafile = true
 
 [[files]]
