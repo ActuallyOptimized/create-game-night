@@ -469,6 +469,11 @@ hash = "33eba62d133ca3ba2113c1cc8a100667ad81c46d5efb9dbb1fdf8f0f57be4393"
 metafile = true
 
 [[files]]
+file = "mods/utilitarian.pw.toml"
+hash = "74104b7854f3ee565c7c47e8f01fcbfba464aa33f5d9d1be9e026b8da09abc26"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
