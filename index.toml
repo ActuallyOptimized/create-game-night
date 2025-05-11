@@ -324,6 +324,11 @@ file = "mods/mcmouser-1.21-neoforge-1.0.1.jar"
 hash = "adae44d731df8316777280966015d77c79c1ee79261578f9d489ed7ac29abc31"
 
 [[files]]
+file = "mods/mechanicals-lib.pw.toml"
+hash = "7df1f1853fe166b4a7724b9a3fa21b844756a593615cde8fb337fcdcf6df43b4"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "6d7ed1de895d198b2c4959b8f28f63cdcd68d24fda159be860db0c692dc54a3b"
 metafile = true
