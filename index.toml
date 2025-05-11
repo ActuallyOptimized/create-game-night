@@ -170,6 +170,11 @@ hash = "1e2db95b596dc6b01af99b03e018a3a8280639bf4e8dfc8ba0b19f471f58f8bf"
 metafile = true
 
 [[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "8a9bf4dfd8d29112e64dbffd71a84aba5279f6c85ed31233f026c84ebc4ef688"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
 metafile = true
@@ -177,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "bbf03bec2bd4927ace16eef106c45b0f3ec53c48d5f43119520123ad98f3fdf1"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "0b921f73d5b1ad6615740956567d6cb06950f5520f094dbb7a045bb4bd5ba309"
 metafile = true
 
 [[files]]
