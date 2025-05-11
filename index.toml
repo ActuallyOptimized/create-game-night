@@ -160,6 +160,11 @@ hash = "50a9e0cce66be2ab5f875133d7ce53d0fc6c35d4a5a4fc0e776f10fadeb61c68"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "bffb086ccb18831669912bfca626b405a180555c3e395301089d3104336dbba8"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
 metafile = true
@@ -262,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "80b8f5ac81313635f3829c0bfc1be0c82190cd5eeb2bd0f74039548f5d300ecc"
+metafile = true
+
+[[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "2c074855a136ad88d428e6513e64631a10fd38980e06c5c485c4103c1256d646"
 metafile = true
 
 [[files]]
