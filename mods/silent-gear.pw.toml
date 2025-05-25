@@ -1,13 +1,13 @@
 name = "Silent Gear"
-filename = "silent-gear-1.21.1-neoforge-4.0.20.jar"
+filename = "silent-gear-1.21.1-neoforge-4.0.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/73mSSnCf/versions/plGtVYM9/silent-gear-1.21.1-neoforge-4.0.20.jar"
+url = "https://cdn.modrinth.com/data/73mSSnCf/versions/LAPWO2cv/silent-gear-1.21.1-neoforge-4.0.21.jar"
 hash-format = "sha512"
-hash = "971cdf45b3a8e0be7fbd7478ca84db86d2d1f90c8b801822cdfcc3bad920516551669c42f6f97c333e06b5ccd13fcec11b5aa4db3e7b3d6667606181faf1fa53"
+hash = "f878cb56fc01607b1b812587267811e81cd6c6f12df8f060303f7484e66d064514701b61445875746173c76eb9d8ea2be6e6fce698674ff05730aa298b5d6398"
 
 [update]
 [update.modrinth]
 mod-id = "73mSSnCf"
-version = "plGtVYM9"
+version = "LAPWO2cv"
