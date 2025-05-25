@@ -11,6 +11,11 @@ hash = "7ba6741d176fc158b20cf60442225fd589f7ec02a20444f9ddebae8e7c65b029"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "b4160f327578ee994907c217b8de09e2c4377b5735b12ad56d91cb1a08ddd62d"
+metafile = true
+
+[[files]]
 file = "mods/allthecompressed.pw.toml"
 hash = "94ca7828cad0a5ebf23212c045171f6b370cf14445418ebff970049a5552f51d"
 metafile = true
@@ -145,6 +150,11 @@ hash = "740362d3f16e26d9d83802e493848e095c92a49ca339e6bbffd356bb0dd12534"
 metafile = true
 
 [[files]]
+file = "mods/create-stock-bridge.pw.toml"
+hash = "9293bf6d4b52a44f6209a4f4023dfcc19a6507889faf81644140e1a9ec6ed220"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "7bdf3b6cbe0579a034372ce1eec83e3c1888134f19beb6b17fbf2005706453be"
 metafile = true
@@ -267,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "8e5da360e375437a904021af1e7eda56fa14f1d68af363f3b6217763c63d3544"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "3d0defaa05f249638a4f43b84ae20294409b90b9f68b36e7a9aa771997129229"
 metafile = true
 
 [[files]]
