@@ -1,13 +1,13 @@
 name = "Simple Backups"
-filename = "SimpleBackups-1.21-4.0.14.jar"
+filename = "SimpleBackups-1.21-4.0.15.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fzSKSXVK/versions/eYnMcNeX/SimpleBackups-1.21-4.0.14.jar"
+url = "https://cdn.modrinth.com/data/fzSKSXVK/versions/SMtgayRU/SimpleBackups-1.21-4.0.15.jar"
 hash-format = "sha512"
-hash = "0b43be0d37b6b98636be1a21a24f63a29add5715b8d93c9d131c068c39561834a228a97453bbc3013fa3033d3109d5c4ccfbf9902e7d1eec319ed5571faeda96"
+hash = "d07a74aa1226ddc113fab62cbc3f4e7d90b0d4753c2c54e428b48b419e4f071faa2b541c9867033ccfb5cd5b0a091cd082b77142f58dcf687277983a1123cbbf"
 
 [update]
 [update.modrinth]
 mod-id = "fzSKSXVK"
-version = "eYnMcNeX"
+version = "SMtgayRU"

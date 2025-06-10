@@ -1,13 +1,13 @@
 name = "Create: Pattern Schematics"
-filename = "create_pattern_schematics-2.0.7.jar"
+filename = "create_pattern_schematics-2.0.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cpqKG67r/versions/iDLHGNQj/create_pattern_schematics-2.0.7.jar"
+url = "https://cdn.modrinth.com/data/cpqKG67r/versions/TtiifZ27/create_pattern_schematics-2.0.8.jar"
 hash-format = "sha512"
-hash = "8d082bdf992b842daf6add1806cefef85cfb8f6e8cb36246c94605c7cbe983cec58cb805c42fc4ad895a210d214ff42c2fe883e776964841f48eaf04f934865f"
+hash = "fcfbcd865859d4796844d0d7af260455c3744c7079bbadb5731248d52efbbc5a002763dc5f8f1b0a6562015bc7189599604a101960c76363a399c11f93baf8da"
 
 [update]
 [update.modrinth]
 mod-id = "cpqKG67r"
-version = "iDLHGNQj"
+version = "TtiifZ27"

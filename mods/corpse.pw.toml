@@ -1,13 +1,13 @@
 name = "Corpse"
-filename = "corpse-neoforge-1.21.1-1.1.5.jar"
+filename = "corpse-neoforge-1.21.1-1.1.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WrpuIfhw/versions/IxJeLN2e/corpse-neoforge-1.21.1-1.1.5.jar"
+url = "https://cdn.modrinth.com/data/WrpuIfhw/versions/DAlmCxsg/corpse-neoforge-1.21.1-1.1.7.jar"
 hash-format = "sha512"
-hash = "45b99f24a224d31b20258028b52ca0a29ca315a6fa1dc658e7d43f5be3d08426b77ff63c6683f7ece34d09759745009c406e31601bce415a73897d6f4a7d2322"
+hash = "a24bf95c7c2ce655e5debfcfc908a16019fd837bc6c880cc2e6098a546102f70513b1be5a36957e1dab26fd6fcd33992fd9560b6eb2ea25f1545b88b25ab9d3e"
 
 [update]
 [update.modrinth]
 mod-id = "WrpuIfhw"
-version = "IxJeLN2e"
+version = "DAlmCxsg"

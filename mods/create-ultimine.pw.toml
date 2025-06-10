@@ -1,13 +1,13 @@
 name = "Create Ultimine"
-filename = "createultimine-1.21.1-neoforge-1.1.0.jar"
+filename = "createultimine-1.21.1-neoforge-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vUE54e5E/versions/I115UR2F/createultimine-1.21.1-neoforge-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/vUE54e5E/versions/k8GHcLo6/createultimine-1.21.1-neoforge-1.2.0.jar"
 hash-format = "sha512"
-hash = "0c9da6ffa9d7517b86651ebcf0c59b2588d83179faf6937300677697df64a983161b8744b9a0200f0d6c4a25b9b458c7bdadc2c4cd188533b64d0f00d26e410e"
+hash = "d442510cbbb9e81d09472a18332d292669cb79a288f09c117a9a328b9156aa039050f79ba2aaa40b3a97e2728adde95b194b1f0c6ec76186ad28fa2ec4b1d0d6"
 
 [update]
 [update.modrinth]
 mod-id = "vUE54e5E"
-version = "I115UR2F"
+version = "k8GHcLo6"
