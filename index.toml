@@ -95,6 +95,11 @@ file = "mods/copycats-2.2.2+mc.1.21.1-neoforge.jar"
 hash = "e2694792a8d30bd9c421f7cde7f745b983fe5cc485e776e8c386611ca5a87cc4"
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "1d609f597d90c582a01f360cc143ba5c5cd5d62a7336d8d5fd02ca50637f52fb"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
