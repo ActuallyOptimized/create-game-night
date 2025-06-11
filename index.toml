@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
-hash = "7ba6741d176fc158b20cf60442225fd589f7ec02a20444f9ddebae8e7c65b029"
+hash = "4f11ae0349d9b62b45e5a1408ac29ed34dbea8ce3df5ad1c0251e7133b022994"
 metafile = true
 
 [[files]]
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "e103e134083c1f541cf3142483cc781b1985a3f21fd7bce3d6cd1788e683902d"
+hash = "b0bf15dd5f0d5ce70c26fbd76cb2a25731e06a15d9a488bd68bf2f5037aa334f"
 metafile = true
 
 [[files]]
