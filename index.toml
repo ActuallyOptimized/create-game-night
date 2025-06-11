@@ -190,6 +190,11 @@ hash = "ff54adc13d204ceacffbf4cacce611bb3c6e7c741a912ee297259a4f1e576e61"
 metafile = true
 
 [[files]]
+file = "mods/create_factory_logistics.pw.toml"
+hash = "05b115ccca98ec5b47dd9fa86da666baf36734034d1cc0e52dee9d071f1b9b5f"
+metafile = true
+
+[[files]]
 file = "mods/create_oxidized.pw.toml"
 hash = "50a9e0cce66be2ab5f875133d7ce53d0fc6c35d4a5a4fc0e776f10fadeb61c68"
 metafile = true
