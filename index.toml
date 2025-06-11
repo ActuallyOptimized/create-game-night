@@ -399,6 +399,11 @@ hash = "a4bb06abbfebf51a4dee16e88d8909c5582c3cfcaca848076cc7f63a25e0682b"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "686a952412f0e2949505def1b3da9bc9cc5bf32433cdd9d6cc8edc62ad979362"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "74c4147419e31244a156285fc030ca773e7f35c69a04ad15cc5af68aa4db72b5"
 metafile = true
